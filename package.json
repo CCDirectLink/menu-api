@@ -1,0 +1,9 @@
+{
+	"name": "menu-api",
+	"description": "Adds a menu to which mods can add their own buttons.",
+	"homepage": "https://gitlab.com/20kdc/ccprestartapi",
+	"version": "0.1.1",
+	"postload": "postload.js",
+	"prestart": "prestart.js",
+	"module": true
+}
